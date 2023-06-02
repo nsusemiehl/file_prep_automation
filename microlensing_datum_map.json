@@ -1,0 +1,24 @@
+ {
+	"RADEIN" : ["θE (mas)", "θ E (mas)", "𝜃E (mas)", "θast (μas)"],
+	"XTIMEEIN" : ["tE (days)", "tE", "tE [days]", "t E (d)", "𝑡E (days)"],
+	"PLXREL" : [],
+	"PMRELLS" : ["µrel (mas yr−1)", "µrel[mas yr−1]", "(mas yr−1)μrel", "μrel ( mas yr −1 )", "μhel,rel(masyr−1)", "𝜇rel (mas yr−1)"],
+	"PLXMICRO" : [],
+	"PLXMICROE" : ["πE,E", "π E, E"],
+	"PLXMICRON" : ["πE,N", "π E, N"],
+	"SEPMINNORM" : ["u0", "u0 (10−3)", "u0,1", "u0,2", "u 0, 1", "u 0", "u0 (10−2)", "u 0, ⊕", "𝑢0 (10−3)", "𝑢0,1 (10−3)"],
+	"RADSNORM" : ["ρ (10−3)", "ρ(10−3)", "ρ1 (10−3)", "ρ* (×10−3)", "ρ1 (10 −3 )", "ρ", "ρ (10−4)", "ρ1", "ρ (10−2)", "𝜌(10−3)", "𝜌1 (10−3)"],
+	"MASSRATIO" : ["q (10−3)", "log q", "q1", "q", "q2 (10−3)", "q3 (10−3)", "q (10−5)", "q (×10−3)", "q (10 −4 )", "q (10 −3 )", "q (10−4)", "𝑞 (10−4)"],
+	"SMAXPNORM" : ["s", "s1 cm", "s23", "s2", "s3", "𝑠"],
+	"DSDT" : ["ds/dt(yr−1)", "d s /d t (yr −1 )"],
+	"DALPHADT" : ["dα/dt(yr−1)", "d α/d t (yr −1 )"],
+	"ANGSTLAX" : ["α (rad)", "α1 cm", "𝛼 (degree)"],
+	"COLVIS" : ["(V − I, I)S", "Vs", "(V − I)s", "( V − I , I ) S", "(𝑉 − 𝐼)S"],
+	"MAGIS" : ["(V − I, I)S", "Is", "IS,OGLE", "IS,KMTC", "I S", "( V − I , I ) S", "𝐼S,OGLE", "𝐼S", "𝐼S1,OGLE"],
+	"RADSANG" : ["θ∗ (µas)", "θ ∗ ( μas)", "θ*(μas)", "𝜃∗ (𝜇as)"],
+	"MAGISO" : ["IS,0", "( V − I , I ) S, 0", "𝐼S,0"],
+	"COLVISO" : ["(V − I)S,0", "( V − I , I ) S, 0", "(𝑉 − 𝐼)S,0"],
+	"TSEPMIN" : ["t0 (HJD′)", "t0", "t0 (HJD(cid:48))", "t0,1 (HJD(cid:48))", "t0,2 (HJD(cid:48))", "HJD )t0 (", ")¢t0 HJD", ") t 0, 1 (HJD (cid:5)", ") t 0 (HJD", "t0 − 8270", "t0 − 8280", "t0 − 8300", "t0 − 8180", "t0 − 8260", "t0 − 8310", "t0 − 2,459,340", "t0 − 2,459,350", "t 0, 1 (HJD", "𝑡0 − 9703 (HJD(cid:48))", "𝑡0,1 − 9703 (HJD(cid:48))"],
+	"MODELCHISQ" : ["χ2", "Fit χ2", "χ2/dof", "χ2 total", "χ2/d.o.f.", "χ 2 /dof (cid:5)", "χ2/ dof", "χ 2 /d.o.f.", "χ 2 /d.o.f. (cid:7)", "χ 2 total / d . o . f. (cid:7)", "2 /dofctot", "𝜒2/dof", "𝜒2total/dof"]
+}
+

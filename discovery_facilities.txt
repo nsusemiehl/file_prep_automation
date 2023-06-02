@@ -1,0 +1,126 @@
+FACILITY,TELESCOPE,INSTRUMENT,LOCALE
+Acton Sky Portal Observatory, 279mm RASA-11 wide-field telescope, FLI ML16200 camera, Ground
+Acton Sky Portal Observatory, Rowe-Ackermann Schmidt Astrograph telescope, SBIG ST-8300M camera, Ground
+Anglo-Australian Telescope, 3.9 m Anglo-Australian Telescope, UCLES Spectrograph, Ground
+Apache Point Observatory, 2.5m Sloan Digital Sky Survey (SDSS) Telescope, KeckET, Ground
+Arecibo Observatory, 305 m Arecibo Radio Telescope, Arecibo Radio Reciever, Ground
+Atacama Large Millimeter Array (ALMA), Atacama Large Millimeter Array (ALMA), 12-m Array, Ground
+Bohyunsan Optical Astronomical Observatory, 1.8 m Telescope, BOES Echelle Spectrograph, Ground
+CHaracterising ExOPlanets Satellite (CHEOPS), 0.3 m Ritchey-Chretien Telescope, Teledyne e2v CCD detector, Space
+Calar Alto Observatory, 3.5 m telescope, CARMENES, Ground
+Cerro Tololo Inter-American Observatory, 1.5 m CTIO Telescope, SIMON Near-Infrared Spectroimager, Ground
+Cerro Tololo Inter-American Observatory, 1.5 m SMARTS telescope, CHIRON spectrometer, Ground
+Cerro Tololo Inter-American Observatory, MEarth-South telescope array, Apogee CCD Sensor, Ground
+CoRoT, 0.27 m CoRoT Telescope, CoRoT CCD Array, Space
+European Southern Observatory, 8.2 m ESO VLT UT4 Yepun Telescope, Multi Unit Spectroscopic Explorer (MUSE), Ground
+European Southern Observatory, Multiple Telescopes, GRAVITY, Ground
+European Southern Observatory, Multiple Telescopes, Multiple Instruments, Ground
+European Space Agency (ESA) Gaia Satellite, 1.45 m x 0.5 m Telescope, Gaia CCD array, Space
+Fred Lawrence Whipple Observatory, 1.5 m Tillinghast Reflector Telescope, AFOE Echelle Spectrograph, Ground
+Fred Lawrence Whipple Observatory, 1.5 m Tillinghast Reflector Telescope, TRES Echelle Spectrograph, Ground
+Gemini Observatory, 8.19 m Gemini North Telescope, NIRI Camera, Ground
+Gemini Observatory, 8.19 m Gemini South Telescope, GMOS Spectrograph, Ground
+Gemini Observatory, 8.19 m Gemini South Telescope, Gemini Planet Imager, Ground
+HATNet, Canon 200mm f/1.8L, 2K CCD Sensor, Ground
+HATNet, Multiple Telescopes, Apogee 4K CCD Sensor, Ground
+HATNet, Multiple Telescopes, Multiple Instruments, Ground
+HATSouth, 0.18 m Takahashi Epsilon Astrograph, Apogee 4K CCD Sensor, Ground
+HATSouth, Multiple Telescopes, Multiple Instruments, Ground
+Haleakala Observatory, 1.8-m Ritchey-Chretien Telescope, Gigapixel Camera 1 (GPC1), Ground
+Haute-Provence Observatory, 1.93 m Telescope, ELODIE Spectrograph, Ground
+Haute-Provence Observatory, 1.93 m Telescope, Multiple Instruments, Ground
+Haute-Provence Observatory, 1.93 m Telescope, SOPHIE Spectrograph, Ground
+Hubble Space Telescope, 2.4 m Hubble Space Telescope, ACS Camera, Space
+Hubble Space Telescope, 2.4 m Hubble Space Telescope, WFC3 Camera, Space
+Hubble Space Telescope, 2.4 m Hubble Space Telescope, WFPC2 Camera, Space
+Infrared Survey Facility, 1.4 m IRSF Telescope, SIRIUS Camera, Ground
+K2, 0.95 m Kepler Telescope, Kepler CCD Array, Space
+KELT, Mamiya 645 80mm f/1.9, Apogee 4K CCD Sensor, Ground
+KELT, Multiple Telescopes, Multiple Instruments, Ground
+KELT-North, Mamiya 645 80mm f/1.9, Apogee 4K CCD Sensor, Ground
+KELT-South, Mamiya 645 80mm f/1.9, Apogee 4K CCD Sensor, Ground
+KMTNet, 1.6 m wide-field telescope, 18k Mosaic CCD camera, Ground
+KOINet, Multiple Telescopes, Multiple Instruments, Multiple Locales
+Kepler, 0.95 m Kepler Telescope, Kepler CCD Array, Space
+Kitt Peak National Observatory, 0.9 m KPNO Coude Feed Telescope, Exoplanet Tracker Interferometer, Ground
+La Silla Observatory, 0.60 m Transiting Planets and Planetesimals Small Telescope, TRAPPISTCAM, Ground
+La Silla Observatory, 1.2 m Leonhard Euler Telescope, CORALIE Spectrograph, Ground
+La Silla Observatory, 1.4 m CAT Telescope, CES Spectrograph, Ground
+La Silla Observatory, 1.52 m ESO Telescope, FEROS Spectrograph, Ground
+La Silla Observatory, 2.2 m MPG/ESO Telescope, FEROS Spectrograph, Ground
+La Silla Observatory, 2.2 m MPG/ESO Telescope, WFI Camera, Ground
+La Silla Observatory, 3.6 m ESO Telescope, HARPS Spectrograph, Ground
+La Silla Observatory, Multiple Telescopes, FEROS Spectrograph, Ground
+La Silla Observatory, Multiple Telescopes, Multiple Instruments, Ground
+Large Binocular Telescope Observatory, Large Binocular Telescope, LMIRCam, Ground
+Las Campanas Observatory, 6.5 m Magellan I Baade Telescope, FIRE Spectrograph, Ground
+Las Campanas Observatory, 6.5 m Magellan II Clay Telescope, Carnegie Planet Finder Spectrograph, Ground
+Las Campanas Observatory, 6.5 m Magellan II Clay Telescope, Clio2 Camera, Ground
+Las Campanas Observatory, 6.5 m Magellan II Clay Telescope, MIKE Spectrograph, Ground
+Las Campanas Observatory, Multiple Telescopes, Multiple Instruments, Ground
+Leoncito Astronomical Complex, 2.15 m Jorge Sahade Telescope, VersArray 1300B CCD Camera, Ground
+Lick Observatory, 0.6 m Coude Auxiliary Telescope, Hamilton Echelle Spectrograph, Ground
+Lick Observatory, 2.4 m Automated Planet Finder Telescope, Levy Spectrograph, Ground
+Lick Observatory, 3.0 m C. Donald Shane Telescope, Hamilton Echelle Spectrograph, Ground
+Lick Observatory, Coude Auxiliary Telescope, Hamilton Echelle Spectrograph, Ground
+MEarth Project, 0.4 m MEarth Telescope, Apogee CCD Sensor, Ground
+MOA, 1.8 m MOA Telescope, MOA CCD Array, Ground
+Mauna Kea Observatory, 3.8m United Kingdom Infrared Telescope (UKIRT), WFCAM, Ground
+McDonald Observatory, 2.7 m Harlan J. Smith Telescope, Tull Coude Spectrograph, Ground
+McDonald Observatory, 2.7m Harlan J. Smith Telescope, Tull Coude Spectrograph, Ground
+McDonald Observatory, 9.2 m Hobby-Eberly Telescope, High Resolution Spectrograph, Ground
+Multiple Facilities, Multiple Telescopes, Multiple Instruments, Ground
+Multiple Observatories, Multiple Telescopes, IGRINS Spectrometer, Ground
+Multiple Observatories, Multiple Telescopes, Multiple Instruments, Ground
+Multiple Observatories, Multiple Telescopes, Multiple Instruments, Multiple Locale
+Multiple Observatories, Multiple Telescopes, Multiple Instruments, Multiple Locales
+Multiple Observatories, Multiple Telescopes, Multiple Instruments, Space
+Multiple Observatories, Multiple Telescopes, TOU, Ground
+NASA Infrared Telescope Facility (IRTF), 3.2 m telescope, SpeX, Ground
+Next-Generation Transit Survey (NGTS), NGTS telescopes, NGTS cameras, Ground
+OGLE, 1.3 m Warsaw University Telescope, OGLE CCD Array, Ground
+Oak Ridge Observatory, 1.55 m Wyeth Telescope, CfA Digital Speedometer, Ground
+Okayama Astrophysical Observatory, 1.88 m Telescope, HIDES Echelle Spectrograph, Ground
+Palomar Observatory, 5.1 m Hale Telescope, PHARO Camera, Ground
+Paranal Observatory, 20 cm Telescope, Andor Ikon-L Camera, Ground
+Paranal Observatory, 4 m ESO Vista Telescope, VIRCAM CCD Array, Ground
+Paranal Observatory, 8.2 m ESO VLT UT1 Antu Telescope, FORS2 Spectrograph, Ground
+Paranal Observatory, 8.2 m ESO VLT UT3 Melipal Telescope, ESPRESSO, Ground
+Paranal Observatory, 8.2 m ESO VLT UT3 Melipal Telescope, Multiple Instruments, Ground
+Paranal Observatory, 8.2 m ESO VLT UT3 Melipal Telescope, SPHERE, Ground
+Paranal Observatory, 8.2 m ESO VLT UT4 Yepun Telescope, NACO Camera, Ground
+Paranal Observatory, Very Large Telescope (Antu), FORS2, Ground
+Parkes Observatory, 64 m Parkes Radio Telescope, Parkes Radio Receiver, Ground
+Qatar, Canon 400mm f/2.8L, FLI ProLine 4K CCD Sensor, Ground
+Roque de los Muchachos Observatory, 3.58 m Telescopio Nazionale Galileo, HARPS-N Spectrograph, Ground
+Roque de los Muchachos Observatory, 3.58 m Telescopio Nazionale Galileo, SARG Spectrograph, Ground
+SPECULOOS Southern Observatory, Multiple Telescopes, Multiple Instruments, Ground
+Sobaeksan Optical Astronomy Observatory (SOAO), 61 cm Telescope, CCD Camera, Ground
+Spitzer Space Telescope, 0.85 m Spitzer Space Telescope, IRAC Infrared Array Camera, Space
+Subaru Telescope, 8.2 m Subaru Telescope, CIAO Camera, Ground
+Subaru Telescope, 8.2 m Subaru Telescope, HDS Spectrograph, Ground
+Subaru Telescope, 8.2 m Subaru Telescope, HiCIAO Camera, Ground
+Subaru Telescope, 8.2 m Subaru Telescope, Infrared Camera and Spectrograph (IRCS), Ground
+Subaru Telescope, 8.2 m Subaru Telescope, Infrared Doppler (IRD), Ground
+Subaru Telescope, 8.2 m Subaru Telescope, Subaru Coronagraphic Extreme Adaptive Optics (SCExAO), Ground
+SuperWASP, Canon 200mm f/1.8L, e2v CCD Camera, Ground
+SuperWASP, Canon 200mm f/1.8L, iKon-L CCD Camera, Ground
+SuperWASP-North, Canon 200mm f/1.8L, Andor e2v CCD Camera, Ground
+SuperWASP-South, Canon 200mm f/1.8L, iKon-L CCD Camera, Ground
+Teide Observatory, 4.20 m William Herschel Telescope, ACAM Auxiliary Port Camera, Ground
+Thueringer Landessternwarte Tautenburg, 2.0 m Alfred Jensch Telescope, Coude Echelle Spectrograph, Ground
+TrES, 0.10 m Schmidt Telescope, 2K CCD Sensor, Ground
+Transiting Exoplanet Survey Satellite (TESS), 0.1 m TESS Telescope, TESS CCD Array, Ground
+Transiting Exoplanet Survey Satellite (TESS), 0.1 m TESS Telescope, TESS CCD Array, Space
+United Kingdom Infrared Telescope, 3.8 m United Kingdom Infrared Telescope, WFCam Wide Field Camera, Ground
+University of Canterbury Mt John Observatory, 1.0 m McLellan telescope, HERCULES echelle spectrograph, Ground
+Very Long Baseline Array, Multiple Telescopes, Multiple Instruments, Ground
+W. M. Keck Observatory, 10 m Keck I Telescope, HIRES Spectrometer, Ground
+W. M. Keck Observatory, 10 m Keck II Telescope, NIRC2 Camera, Ground
+WASP-South, Canon 200mm f/1.8L, iKon-L CCD Camera, Ground
+Wide-field Infrared Survey Explorer (WISE) Satellite Mission, 0.4 m Telescope, HgCdTe and Si:As 1K Infrared Detectors, Space
+Winer Observatory, 0.51 m Telescope, SBIG 6303e CCD Camera, Ground
+XO, Canon 200mm f/1.8L, Apogee CCD Array, Ground
+Xinglong Station, 2.16 m Telescope, Coude Echelle Spectrograph, Ground
+Yunnan Astronomical Observatory, 2.4 m Lijiang Station Telescope, 6K CCD Mosaic, Ground
+Yunnan Astronomical Observatory, 2.4 m Lijiang Station Telescope, VersArray 1300B CCD Camera, Ground

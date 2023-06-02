@@ -1,0 +1,21 @@
+{
+	"TEFF" : ["Effective temperature", "Teff", "Teff (K)", "Effective Temperature [K]", "Eﬀective temperature 𝑇eﬀ [K]", "(K)Teff", "Eﬀ.temp.", "Teﬀ [K]", "T∗,eﬀ", "T∗", "Teff(cid:63(K", "(K)Effective temperature Teff", "Teﬀ (K)", "Teﬀ"],
+	"LUM" : [],
+	"LUMS" : ["Stellar Luminosity [L ]", "L∗ ( L )", "Bolometric luminosity [𝐿(cid:12)]", "L(cid:63) (L(cid:12))", "L∗ (L⊙)", "Luminosity [L(cid:12)]", "L∗,bol", "L∗", "L(cid:63(L(cid:12)", "Luminosity (L(cid:12))" ,"L(cid:63) (10−3 L(cid:12))", "L (L(cid:12) × 10−2)"],
+	"MET" : ["Metallicity", "[Fe/H]", "Metallicity [dex]", "[F e/H]", "[Fe/H] abundance", "[Fe/H] (dex)", "[Fe/H] (dex) (1)"],
+	"RADV" : [],
+	"ROTP" : ["Prot;GP (d)", "Stellar rotation period 𝑃rot [d]", "(days)Prot", "Prot (days)", "Prot [days]", "Prot", "(d)Prot"],
+	"VSINI" : ["v sin i (km s−1)", "Projected stellar rotational velocity [km/s]", "v sin(i)", "v sin i (km s )−1", "Stellar rotation velocity 𝑣 sin 𝑖 [km s−1]", "v sin i∗(km s−1)", "v sin i [km s−1]", "v sin i", "vsini", "isinRotational velocity v", "v · sin(i) (km s−1)", "vin", "visin", "v sin i (km/s)", "vin⋆"],
+	"SPT" : ["Sp. type", "Spectral Type", "Spectraltype", "SpT"],
+	"AGE" : ["Stellar Age [Gyr]", "Age (Gyrs)", "Age (Myr)", "Age [Gyr]", "Age (Gyr)", "Age", "τåc", "log10ge"],
+	"SDENS" : ["Mean density", "Density", "Derived stellar density [g/cm3]", "ρ?", "ρ∗ ( g cm−3)", "Stellar density 𝜌star [g cm−3]", "ρ(cid:63) (ρ(cid:12))", "Density ρå", "ρ(cid:63)(cm−3", "ρ∗", "ρå", "Density (g cm-3)", "ρ⋆"],
+	"SDENSS" : [],
+	"SMASS" : ["Mass", "M", "M⋆ (M⊙)", "Mass [M ]", "M?", "M∗ (M )", "M (M⊙)", "Stellar mass 𝑀star [𝑀(cid:12)]", "M(cid:63) (M(cid:12))", "M∗ (M⊙)", "Mass [M(cid:12)]", "M∗", "Mass Må", "Mhost[M(cid:12)]", "M(cid:63(M(cid:12)", "(Me)Mhost", "Mhost (M⊙)", "(M☉)Mhost", "Mhost(M(cid:2))", "Mass M* (Me)", "Mass (M(cid:12))", "Mhost (M(cid:12))", "Ms", "Må", "M(cid:63)", "𝑀host (𝑀(cid:12))", "Mass (M⊙)", "M⋆"],
+	"SRAD" : ["Radius", "R", "R⋆ (R⊙)", "Radius [R ]", "R?", "R∗ (R )", "Stellar radius 𝑅star [𝑅(cid:12)]", "R(cid:63) (R(cid:12))", "R∗ (R⊙)", "Radius [R(cid:12)]", "R∗", "Radius Rå", "R(cid:63(R(cid:12)", "Radius R* (Re)", "Radius (R(cid:12))", "Rs", "Rå", "R(cid:63)", "Radius (R⊙)", "R⋆"],
+	"LOGG" : ["Surface gravity", "log g", "Surface gravity [cm/s2]", "log(g)", "log 𝑔 [cgs]", "log g(dex)", "log g (cgs)", "Surface grav", "log g [cgs]", "glog()", "log(cid:63(cgs", "glog(cm s−2)Surface gravity", "log g [cm · s−2]", "log", "glog", "logg", "log g(cid:63)"],
+	"RHK" : ["Activity index", "′ Hlog10 RK", "log R(cid:48)HK", "¢RlogHK", "log(R′HK ) (dex)"],
+	"SINDX" : [],
+	"DIST" : ["DL (kpc)", "DL[kpc]", "DL(kpc)", "Distance (pc)", "𝐷L (kpc)"],
+	"RA" : ["R.A.J2000"],
+	"DEC" : ["Decl.J2000"]
+}
